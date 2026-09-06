@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "last_checked": "2026-09-06",
+  "sources": {
+    "simplify": {
+      "repo": "SimplifyJobs/New-Grad-Positions",
+      "branch": "dev",
+      "path": "README.md",
+      "commit": "02aaefcc1eb09dcb73436064e01d18960d7d58e6"
+    },
+    "speedy_swe": {
+      "repo": "speedyapply/2027-SWE-College-Jobs",
+      "branch": "main",
+      "path": "NEW_GRAD_USA.md",
+      "commit": "bd7c18d8b754a0e299fe492f14897b9b5f6ffaa4"
+    },
+    "speedy_ai": {
+      "repo": "speedyapply/2027-AI-College-Jobs",
+      "branch": "main",
+      "path": "NEW_GRAD_USA.md",
+      "commit": "d5642dc051674a0bed4ed83acd49658dcb3f1a2e"
+    }
+  },
+  "dedupe": "canonical application URL / stable ATS requisition ID; strip tracking params such as utm_source, utm_medium, ref, gh_src and collapse duplicate application wrappers for the same requisition",
+  "display": "README contains the filtered recent baseline plus future qualifying diffs; user-facing roles are sorted newest first"
+}
