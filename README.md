@@ -13,6 +13,7 @@ US **New Grad / Early Career** roles for SWE, Backend, Full-stack, Data Engineer
 |---|---|---|---|---|---:|
 | 🔥 OpenAI | Performance Modeling Engineer ~2 | San Francisco, CA / Seattle, WA | AI Infra / SWE | [Apply](https://openai.com/careers/performance-modeling-engineer-~2-san-francisco/) | first seen 0d |
 | AiPrise | Software Engineer I | San Jose, CA | SWE | [Apply](https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba) | 1d |
+| ID.me | Software Development Engineer New Grad | Mountain View, CA | SWE | [Apply](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003) | 1d |
 | New Relic | Software Engineer - Auth0/AuthZ - Java | Portland, OR | SWE | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5416517008) | 1d |
 | Scale AI | Software Engineer - New Grad | San Francisco, CA | SWE | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) | 1d |
 | Vestwell | Associate - Software Engineer | Austin, TX +2 | SWE | [Apply](https://job-boards.greenhouse.io/vestwell/jobs/7983915003) | 1d |
@@ -40,11 +41,14 @@ US **New Grad / Early Career** roles for SWE, Backend, Full-stack, Data Engineer
 | Zefr | Data Engineer | Marina del Rey, CA | Data | [Apply](https://jobs.ashbyhq.com/zefr/b481bf4b-9149-40bf-bf0a-ea29580c5d66) | 2d |
 | Analytical Mechanics Associates | Software Engineer | Mountain View, CA | SWE | [Apply](https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Mountain-View-CA/Software-Engineer_R-100728) | 3d |
 | Anduril | 2027 Early Career Flight Software Engineer | Costa Mesa, CA | SWE | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007) | 3d |
+| Applied Intuition | Cybersecurity Software Engineer - New Grad - December 2027 | Sunnyvale, CA | SWE / Security | [Apply](https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e) | 3d |
 | HP | Embedded Firmware and Software Engineer | Spring, TX | Embedded / SWE | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Spring-Texas-United-States-of-America/Embedded-Firmware-and-Software-Engineer_3161388-2) | 3d |
+| Kikoff | Software Engineer New Grad | San Francisco, CA | SWE | [Apply](https://job-boards.greenhouse.io/kikoff/jobs/4393822009) | 3d |
 | Leidos | Entry Level Software Developer | St. Louis, MO | SWE | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/external/job/St-Louis-MO/Entry-Level-Software-Developer_R-00186923) | 3d |
 | Microchip | Engineer I - CAD / Software Development | Chandler, AZ | SWE | [Apply](https://microchiphr.wd5.myworkdayjobs.com/en-US/external/job/AZ---Chandler/Engineer-I--CAD--Software-Development-_R3637-26) | 3d |
 | Morgan Stanley | Associate - Software Engineer | New York, NY | SWE | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/external/job/New-York-New-York-United-States-of-America/Associate--Software-Engineer_JR031776) | 3d |
 | Sift | Software Engineer - New College Graduate | Marina del Rey, CA | SWE | [Apply](https://jobs.ashbyhq.com/siftstack/0d65481e-e762-4d8f-ae38-5040754a5134) | 3d |
+| Trulioo | Junior Software Engineer | San Diego, CA | SWE | [Apply](https://jobs.ashbyhq.com/trulioo/51347dfe-5ba8-4480-a225-ffd7f641613e) | 3d |
 | Amazon | Software Dev Engineer I - Graviton Software - Annapurna Labs | Austin, TX | SWE | [Apply](https://www.amazon.jobs/jobs/10526808/apply) | 3d |
 | Caterpillar | Autonomy and Robotics Engineer | Illinois +1 | Robotics / AI | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Mossville-Illinois/Autonomy-and-Robotics-Engineer_R0000392427) | 3d |
 | Handshake | Forward Deployed Engineer - Handshake AI Enterprise | San Francisco, CA | AI / SWE | [Apply](https://jobs.ashbyhq.com/handshake/c91b7ebf-2c69-4d91-809d-a30ea0b9dc18) | 3d |
