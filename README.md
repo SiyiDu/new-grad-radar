@@ -2,7 +2,8 @@
 
 A single-page list of US **New Grad / Early Career** roles relevant to SWE, Backend, Full-stack, Data Engineering, MLE, AI Engineering, and adjacent technical roles.
 
-**Target:** 2027 graduate · US full-time · mostly 0–3 YOE · newest roles first.
+**Target:** 2027 graduate · US full-time · mostly 0–3 YOE · newest roles first.  
+**Last checked:** 2026-09-06
 
 > Sources are merged and deduplicated from Simplify, SpeedyApply SWE, SpeedyApply AI/ML/Data, and selected company career pages. `Age` is source-listed age / first-seen age, not always the employer's original posting time.
 
@@ -10,6 +11,7 @@ A single-page list of US **New Grad / Early Career** roles relevant to SWE, Back
 
 | Company | Role | Location | Track | Apply | Age |
 |---|---|---|---|---|---:|
+| 🔥 OpenAI | Performance Modeling Engineer ~2 | San Francisco, CA / Seattle, WA | AI Infra / SWE | [Apply](https://openai.com/careers/performance-modeling-engineer-~2-san-francisco/) | 0d |
 | AiPrise | Software Engineer 1 | San Jose, CA | SWE | [Apply](https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application?embed=true) | 1d |
 | PayPal | Software Engineer New Grad | Austin, TX / San Jose, CA / Chicago, IL | SWE | [Apply](https://paypal.eightfold.ai/careers/job/274921995088) | 1d |
 | Scale AI | Software Engineer New Grad | San Francisco, CA | SWE | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) | 1d |
