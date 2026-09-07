@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "last_checked": "2026-09-06",
+  "last_checked": "2026-09-07",
   "sources": {
     "simplify": {
       "repo": "SimplifyJobs/New-Grad-Positions",
       "branch": "dev",
       "path": "README.md",
-      "commit": "02aaefcc1eb09dcb73436064e01d18960d7d58e6"
+      "commit": "17c59e30d7b75051e60dee95d7b98615dbe792eb"
     },
     "speedy_swe_new_grad": {
       "repo": "speedyapply/2027-SWE-College-Jobs",
