@@ -1,9 +1,11 @@
 # New Grad Radar 🚀
 
+[Internships →](./INTERNSHIPS.md)
+
 US **New Grad / Early Career** roles for SWE, Backend, Full-stack, Data Engineering, MLE, AI Engineering, and adjacent technical roles.
 
 **Target:** Spring 2027 graduate · US full-time · mostly 0–3 YOE · newest first.  
-**Last checked:** 2026-09-06
+**Last checked:** 2026-09-07
 
 > Sources: Simplify New Grad, SpeedyApply 2027 SWE (**FAANG+ + Quant + Other**), SpeedyApply 2027 AI/ML/Data (**FAANG+ + Quant + Other**), plus selected company career pages.  
 > Current baseline was manually re-swept across all three source files. Rows are deduplicated by canonical application link / stable ATS requisition where possible. `Age` is source-listed age; `first seen` is used only for company-site additions without a reliable posting date.
@@ -12,7 +14,11 @@ US **New Grad / Early Career** roles for SWE, Backend, Full-stack, Data Engineer
 
 | Company | Role | Location | Track | Apply | Age |
 |---|---|---|---|---|---:|
-| 🔥 OpenAI | Performance Modeling Engineer ~2 | San Francisco, CA / Seattle, WA | AI Infra / SWE | [Apply](https://openai.com/careers/performance-modeling-engineer-~2-san-francisco/) | first seen 0d |
+| 🔥 Palantir | Software Engineer, New Grad | Denver, CO | SWE | [Apply](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29) | first seen 0d |
+| 🔥 Palantir | Software Engineer, New Grad - Production Infrastructure | Seattle, WA | Infra / SWE | [Apply](https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af) | first seen 0d |
+| 🔥 Palantir | Forward Deployed Software Engineer, New Grad - Commercial | New York, NY | SWE / FDSE | [Apply](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728) | first seen 0d |
+| 🔥 Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | Palo Alto, CA | Infra / SWE | [Apply](https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0) | first seen 0d |
+| 🔥 OpenAI | Performance Modeling Engineer ~2 | San Francisco, CA / Seattle, WA | AI Infra / SWE | [Apply](https://openai.com/careers/performance-modeling-engineer-~2-san-francisco/) | first seen 1d |
 | AiPrise | Software Engineer I | San Jose, CA | SWE | [Apply](https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba) | 1d |
 | PayPal | Software Engineer New Grad - Software Engineering | Austin, TX / San Jose, CA / Chicago, IL | SWE | [Apply](https://paypal.eightfold.ai/careers/job/274921995088) | 1d |
 | Scale AI | Software Engineer - New Grad | San Francisco, CA | SWE | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) | 1d |
