@@ -1,37 +1,37 @@
 {
   "version": 2,
-  "last_checked": "2026-09-07",
+  "last_checked": "2026-09-08",
   "sources": {
     "simplify": {
       "repo": "SimplifyJobs/New-Grad-Positions",
       "branch": "dev",
       "path": "README.md",
-      "commit": "17c59e30d7b75051e60dee95d7b98615dbe792eb"
+      "commit": "a51bb417f784e0d25925c235c9952a0944959919"
     },
     "speedy_swe_new_grad": {
       "repo": "speedyapply/2027-SWE-College-Jobs",
       "branch": "main",
       "path": "NEW_GRAD_USA.md",
-      "commit": "bd7c18d8b754a0e299fe492f14897b9b5f6ffaa4"
+      "commit": "db51840d838f43d4f0edcf6fb77fad262249ad5d"
     },
     "speedy_ai_new_grad": {
       "repo": "speedyapply/2027-AI-College-Jobs",
       "branch": "main",
       "path": "NEW_GRAD_USA.md",
-      "commit": "d5642dc051674a0bed4ed83acd49658dcb3f1a2e"
+      "commit": "830ebb546b949fec1293a90510afc60a68007ef6"
     },
     "speedy_swe_internships": {
       "repo": "speedyapply/2027-SWE-College-Jobs",
       "branch": "main",
       "path": "README.md",
-      "commit": "bd7c18d8b754a0e299fe492f14897b9b5f6ffaa4",
+      "commit": "db51840d838f43d4f0edcf6fb77fad262249ad5d",
       "started_on": "2026-09-06"
     },
     "speedy_ai_internships": {
       "repo": "speedyapply/2027-AI-College-Jobs",
       "branch": "main",
       "path": "README.md",
-      "commit": "d5642dc051674a0bed4ed83acd49658dcb3f1a2e",
+      "commit": "830ebb546b949fec1293a90510afc60a68007ef6",
       "started_on": "2026-09-06"
     }
   },
